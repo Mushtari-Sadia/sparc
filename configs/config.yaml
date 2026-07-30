@@ -1,0 +1,2 @@
+model: "claude" #openai, llava, llava_ov, internvl2
+variant: "anthropic/claude-4-sonnet" #gpt-4, gpt-5
